@@ -1,0 +1,9 @@
+{
+    "h": 100,
+    "C_width": 0.83,
+    "n_C": 8,
+    "RF_length": 1500,
+    "RF_width": 2,
+    "DC_height": 3,
+    "n_DC": 5
+}
