@@ -67,4 +67,4 @@ If you use this code in your work, please cite the thesis and this repository:
 ```
 Lorenzo Calandra Buonaura, RF technical noise analysis in trapped-ion quantum computing architectures, GitHub repository, 2025.
 ```
-DOI: [10.5281/zenodo.17753565](https://doi.org/10.5281/zenodo.17753565)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17753565-blue)](https://doi.org/10.5281/zenodo.17753565)
