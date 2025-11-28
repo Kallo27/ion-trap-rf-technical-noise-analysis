@@ -1,6 +1,6 @@
 # RF technical noise analysis in trapped-ion quantum computing architectures
 
-This repository contains the code used in the thesis **"Trapped-ion quantum architectures: RF electrodes optimization and effects of RF technical noise"**. The code implements theoretical models and simulations to study the effects of radio-frequency (RF) technical noise on the motional heating of trapped ions in surface-electrode Paul traps. It also provides tools for electrode layout design and optimization.
+This repository contains the code developed for the Master’s thesis **"Trapped-ion quantum architectures: RF electrode optimization and effects of RF technical noise"**, completed as part of the Physics of Data program at the University of Padua.The work was carried out in collaboration with the Cryo team of the Quantum Optics and Spectroscopy group at the University of Innsbruck. The code implements theoretical models and simulations to study the effects of radio-frequency (RF) technical noise on the motional heating of trapped ions in surface-electrode Paul traps. It also provides tools for electrode layout design and optimization.
 
 ---
 
@@ -67,4 +67,4 @@ If you use this code in your work, please cite the thesis and this repository:
 ```
 Lorenzo Calandra Buonaura, RF technical noise analysis in trapped-ion quantum computing architectures, GitHub repository, 2025.
 ```
-
+DOI: [10.5281/zenodo.17753565](https://doi.org/10.5281/zenodo.17753565)
